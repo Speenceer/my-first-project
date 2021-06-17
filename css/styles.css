@@ -1,0 +1,95 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+
+}
+h1{
+  font-size: 5rem;
+  margin: 0 auto;
+  font-family: "Sacramento", cursive;
+  color: #ffe268;
+}
+
+h2{
+  font-family: "Montserrant", sans-serif;
+}
+
+h3{
+    font-family: "Montserrant", sans-serif;
+}
+
+p{
+  font-size: 3rem;
+  font-family: "Dancing Script", cursive;
+  color: #ffe268
+}
+
+.top-container{
+background-color: #464f41;
+position: relative;
+padding-top: 70px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 100px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 100px;
+  top: 50px;
+
+}
+
+.top-cloud, .bottom-cloud{
+  width: 200px;
+}
+
+.profile-pic{
+  border-radius:50%;
+  margin: 100px;
+}
+
+h2{
+  font-family:"Dancing Script" cursive;
+  font-size: 3rem;
+  color: #ffe268;
+}
+h3{font-family:"Dancing Script" cursive;
+font-size: 3rem;
+color: #ffe268;
+}
+.html{
+  border-radius: 50%;
+}
+.css{
+  border-radius: 50%;
+  margin: 100px;
+}
+
+.btn{
+  border-radius: 8px;
+  font-family:"Montserrant" sans-serif;
+  color: #11999e;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  display: inline-block;
+  box-shadow: 0 1rem 2rem rgb(0 0 0 / 20%);
+}
+
+.bottom-container{
+  background-color: #464f41;
+  padding: 50px 0 50px;
+}
+
+a{
+  font-size: 2rem;
+  color: #11999e;
+  font-family: "Montserrant", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
